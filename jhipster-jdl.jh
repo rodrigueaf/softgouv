@@ -1,0 +1,7 @@
+entity Cheferie {
+	nom String,
+    prenom String
+}
+
+paginate Cheferie with pagination
+
